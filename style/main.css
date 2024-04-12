@@ -456,13 +456,15 @@ footer {
     border-bottom: 1px solid;
 }
 
+img.box-be {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1280px;
+    height: 576px;
+    margin-top: 50px;
 
-
-
-
-
-
-
+}
 
 
 
